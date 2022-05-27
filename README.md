@@ -3,7 +3,7 @@ Training project og landing page.
 
     - [DEMO LINK](https://ivan-major.github.io/museum2-landing/)
 
-Used tecnologies:
+Used technologies:
 - HTML,
 - CSS, SASS, BEM,
 - Java Script,
